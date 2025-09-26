@@ -3,7 +3,7 @@
     "description": "Annotations for PHP Enumerations and Constants",
     "autoload": {
         "psr-4": {
-            "Dsxwk\\Framework\\Annotation": "src/"
+            "Dsxwk\\Framework\\Annotation\\": "src/"
         },
         "files": []
     },
