@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dsxwk\Framework\Annotations\Enums\Interface;
+namespace Dsxwk\Framework\Annotation\Enums\Interface;
 
 interface ErrCodeInterface
 {

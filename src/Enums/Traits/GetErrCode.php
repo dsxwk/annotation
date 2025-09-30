@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dsxwk\Framework\Annotations\Enums\Traits;
+namespace Dsxwk\Framework\Annotation\Enums\Traits;
 
 use ReflectionException;
 

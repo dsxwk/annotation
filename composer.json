@@ -1,6 +1,6 @@
 {
     "name": "dsxwk/annotation",
-    "description": "Annotations for PHP Enumerations and Constants",
+    "description": "Annotation for PHP Enumerations and Constants",
     "autoload": {
         "psr-4": {
             "Dsxwk\\Framework\\Annotation\\": "src/"

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dsxwk\Framework\Annotations\Consts\Abstracts;
+namespace Dsxwk\Framework\Annotation\Consts\Abstracts;
 
 use Exception;
 use ReflectionClass;

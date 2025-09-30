@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Dsxwk\Framework\Annotations\Enums\Traits;
+namespace Dsxwk\Framework\Annotation\Enums\Traits;
 
-use Dsxwk\Framework\Annotations\Enums\Attributes\DescAttributes;
-use Dsxwk\Framework\Annotations\Enums\Attributes\PrefixAttributes;
+use Dsxwk\Framework\Annotation\Enums\Attributes\DescAttributes;
+use Dsxwk\Framework\Annotation\Enums\Attributes\PrefixAttributes;
 use ReflectionEnum;
 use ReflectionEnumUnitCase;
 use ReflectionClass;

@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Dsxwk\Framework\Annotations\Enums;
+namespace Dsxwk\Framework\Annotation\Enums;
 
-use Dsxwk\Framework\Annotations\Enums\Attributes\DescAttributes;
-use Dsxwk\Framework\Annotations\Enums\Attributes\PrefixAttributes;
-use Dsxwk\Framework\Annotations\Enums\interface\ErrCodeInterface;
-use Dsxwk\Framework\Annotations\Enums\Traits\GetErrCode;
+use Dsxwk\Framework\Annotation\Enums\Attributes\DescAttributes;
+use Dsxwk\Framework\Annotation\Enums\Attributes\PrefixAttributes;
+use Dsxwk\Framework\Annotation\Enums\interface\ErrCodeInterface;
+use Dsxwk\Framework\Annotation\Enums\Traits\GetErrCode;
 
 #[PrefixAttributes('100', 'API错误码')]
 enum ErrCodeEnum: int implements ErrCodeInterface

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dsxwk\Framework\Annotations\Consts\Attributes;
+namespace Dsxwk\Framework\Annotation\Consts\Attributes;
 
 use Attribute;
 

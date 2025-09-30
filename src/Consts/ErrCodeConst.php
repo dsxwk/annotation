@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Dsxwk\Framework\Annotations\Consts;
+namespace Dsxwk\Framework\Annotation\Consts;
 
-use Dsxwk\Framework\Annotations\Consts\Abstracts\GetConst;
-use Dsxwk\Framework\Annotations\Consts\Attributes\PrefixAttributes;
-use Dsxwk\Framework\Annotations\Consts\Attributes\DescAttributes;
+use Dsxwk\Framework\Annotation\Consts\Abstracts\GetConst;
+use Dsxwk\Framework\Annotation\Consts\Attributes\PrefixAttributes;
+use Dsxwk\Framework\Annotation\Consts\Attributes\DescAttributes;
 
 #[PrefixAttributes('10000', '错误码前缀')]
 class ErrCodeConst extends GetConst

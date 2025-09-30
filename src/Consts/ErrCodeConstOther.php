@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Dsxwk\Framework\Annotations\Consts;
+namespace Dsxwk\Framework\Annotation\Consts;
 
 use Attribute;
-use Dsxwk\Framework\Annotations\Consts\Abstracts\GetConstOther;
+use Dsxwk\Framework\Annotation\Consts\Abstracts\GetConstOther;
 
 /**
  * @desc('测试描述信息')

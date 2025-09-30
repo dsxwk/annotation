@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dsxwk\Framework\Annotations\Enums\Attributes;
+namespace Dsxwk\Framework\Annotation\Enums\Attributes;
 
 use Attribute;
 
